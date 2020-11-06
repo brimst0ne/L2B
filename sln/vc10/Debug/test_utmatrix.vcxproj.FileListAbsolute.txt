@@ -1,0 +1,2 @@
+C:\Users\TEMYCH\source\repos\Lab2\sln\vc10\Debug\test_utmatrix.exe
+C:\Users\TEMYCH\source\repos\Lab2\sln\vc10\Debug\test_utmatrix.pdb

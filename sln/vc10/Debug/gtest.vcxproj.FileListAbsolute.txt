@@ -1,0 +1,2 @@
+C:\Users\TEMYCH\source\repos\Lab2\sln\vc10\Debug\gtest.lib
+C:\Users\TEMYCH\source\repos\Lab2\sln\vc10\Debug\gtest.pdb
